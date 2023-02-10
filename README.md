@@ -36,11 +36,18 @@ So we want to analyze the impact of vine reviews on overall product reviews. Thi
 Provided below is an number of snapshots from the analysis. 
 
 - Customer Table
+
 ![dev_1](images/customer_table.png "Dev 1 Image")
+
 - Product Table
+
 ![dev_2](images/product_table.png "Dev 2 Image")
+
 - Review Table
+
 ![dev_3](images/review_table.png "Dev 3 Image")
+
+
 - Vine Table
 ![dev_4](images/vine_table.png "Dev 4 Image")
 
