@@ -28,7 +28,7 @@ So we want to analyze the impact of vine reviews on overall product reviews. Thi
 
  - As we can see for outdoor products on Amazon, there is a positivity bias. Products with Vine reviews have a slightly higher % of 5 stars reviews with 53.4% compared to 52.7% of non-Vine reviewed products. 
 
-- An additional analysis would be to see the impact across different products lines. We could use the same code to perform an anlysis on different product sectors then compare the vine review impact across different product lines. If we wanted to continue an analysis with the same dataset, we should see if vine has a similar impact on low star ratings. Because we only filter for better reviews, we should see if vine has an impact say for 1-star reviews. 
+- An additional analysis would be to see the impact across different products lines. We could use the same code to perform an analysis on different product sectors then compare the vine review impact across different product lines. If we wanted to continue an analysis with the same dataset, we should see if vine has a similar impact on low star ratings. Because we only filter for better reviews, we should see if vine has an impact say, for 1-star reviews. 
 
 
 ## Image Support:
