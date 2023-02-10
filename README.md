@@ -49,6 +49,7 @@ Provided below is an number of snapshots from the analysis.
 
 
 - Vine Table
+
 ![dev_4](images/vine_table.png "Dev 4 Image")
 
 
