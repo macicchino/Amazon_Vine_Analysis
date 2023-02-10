@@ -12,11 +12,20 @@ So we want to analyze the impact of vine reviews on overall product reviews. Thi
 ### Using bulleted lists and images of DataFrames as support, address the following questions:
 
  1. How many Vine reviews and non-Vine reviews were there?
-  - There were 103 total Vine reviews and 37,441 total non-Vine reviews. 
+   - There were 103 total Vine reviews.
+   - There were 37,441 total non-Vine reviews. 
 
  2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+   - There were 55 total Vine 5-Star reviews.
+   - There were 19,736 total non-Vine 5-Star reviews.
 
  3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+   - 53.4% of Vine Reviews were 5 Stars
+   - 52.7% of non-Vine Reviews were 5 Stars
 
 ## Summary: 
 ### In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+ - As we can see for outdoor products on Amazon, products with Vine reviews have a slightly higher % of 5 stars reviews with 53.4% compared to 52.7% of non-Vine reviewed products. 
+
+- An additional analysis would be to see the impact across different products lines. We could use the same code to perform an anlysis on different product sectors then compare the vine review impact across different product lines. If we wanted to continue an analysis with the same dataset, we should see if vine has a similar impact on low star ratings. Because we only filter for better reviews, we should see if vine has an impact say for 1-star reviews. 
