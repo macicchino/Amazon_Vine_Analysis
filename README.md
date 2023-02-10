@@ -35,5 +35,7 @@ So we want to analyze the impact of vine reviews on overall product reviews. Thi
 
 Provided below is an number of snapshots from the analysis. 
 
+![dev_1](Images/Dev1_DataFrame.png "Dev 1 Image")
+
 
 
